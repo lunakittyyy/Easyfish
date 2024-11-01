@@ -1,0 +1,10 @@
+{
+  "Id": "Easyfish",
+  "AssemblyPath": "Easyfish.dll",
+  "Metadata": {
+    "Name": "Easyfish",
+    "Author": "lunakittyyy",
+    "Version": "1.0.0",
+    "Description": "Never lose fish!"
+  }
+}
